@@ -1,4 +1,4 @@
 # Trial
 This is first repository.
 <br>
-Author: Aditya Kumar
+Author: Aditya Kumar (CSE)
