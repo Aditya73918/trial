@@ -1,2 +1,4 @@
-# trial
-this is first repository
+# Trial
+This is first repository.
+<br>
+Author: Aditya Kumar
